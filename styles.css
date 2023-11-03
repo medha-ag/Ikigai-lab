@@ -1,0 +1,14 @@
+.navbar {
+    border-bottom: #a954b7 solid 5px;
+  }
+  
+  #services .card:hover {
+    background: #2d3436;
+    color: #ffff;
+  }
+  body {
+    background: linear-gradient(to right bottom, #e1f4ef, #c6aad0, #b876dc);
+  }
+  .profile{
+    height: 180px;
+  }
